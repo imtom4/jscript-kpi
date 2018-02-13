@@ -1,2 +1,3 @@
-## javaScript, etc. Programming basics 
-along with lectures of @tshemsedinov and @howProgrammingWorks 
+## javaScript, etc. Programming basics learning 
+with thanks and compliments to my supporting accomaning Friends !
+and excuses for all my personal Drawbacks ..
