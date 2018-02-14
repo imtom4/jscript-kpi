@@ -8,3 +8,5 @@ and excuses for all my personal Drawbacks ..
 
 - [calendar of lectures topics](schedule-2018.md)
 
+- [an addition tech reading books(..updating in-progress..)[add-reading.md]
+
