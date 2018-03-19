@@ -6,6 +6,6 @@
 
 &related= [Data Engineering, the future of Data Warehousing? - sspaeti.com](https://www.sspaeti.com/blog/data-engineering-the-future-of-data-warehousing/)
 
-!act= Learn [Python | Codecademy](https://www.codecademy.com/en/tracks/python)
+begin to learn [Python | Codecademy](https://www.codecademy.com/en/tracks/python)
 
 - 
