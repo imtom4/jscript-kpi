@@ -8,7 +8,7 @@ and excuses for all my personal Drawbacks ..
 
 - [calendar of lectures topics](schedule-2018.md)
 
-- [additional LONG-reading for js\es6 (..updating..)](add-reading.md)
+- [additional LONG-reading for js\ECMAscript (..updating..)](add-reading.md)
 
 - [what next {to learn} ? (..updating..)](w_n_.md)
 
