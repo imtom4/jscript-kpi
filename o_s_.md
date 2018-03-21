@@ -1,31 +1,29 @@
-##Online services
-
-    JSFiddle.net
+##online services for coders 
+- [JSFiddle.net](https://JSFiddle.net)
     The Web Playground
 
-    JSBin.com
+- [JSBin.com](https://JSBin.com)
     A JavaScript, HTML and CSS playground
 
-    CodePen.io
+- [CodePen.io](https://CodePen.io)
     A front-end playground
 
-    ICEcoder.net
+- [ICEcoder.net](https://ICEcoder.net)
     Online IDE
 
-    Divshot.com
+- [Divshot.com](https://Divshot.com)
     The Interface Builder for Web Apps
 
-    Codio.com
+- [Codio.com](https://Codio.com)
     Web IDE for web development, teaching and learning
 
-    Codeanywhere.com
+    Codeanywhere.com[Litmus.com](https://litmus.com/email-testing)
     Multi-platform cloud editor
 
-    SourceLair.com
+    SourceLair.com[Litmus.com](https://litmus.com/email-testing)
     In-browser IDE for web technologies
 
-##specific
-
+##specific 
     [Litmus.com](https://litmus.com/email-testing) 
     The code editor built to streamline email development workflow
 
