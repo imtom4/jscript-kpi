@@ -9,7 +9,7 @@
     A front-end playground {}
 
 - [ICEcoder.net](https://ICEcoder.net)
-    Online IDE {}
+    Online IDE {in-browsers app, you only need PHP 5.0+ ..and web-server, of course} | [:octocat:@mattpass/ICEcoder](http://github.com/mattpass/ICEcoder) | [demo](http://demo.icecoder.net/ICEcoder/) 
 
 - [Divshot.com](https://Divshot.com)
     The Interface Builder for Web Apps {}
