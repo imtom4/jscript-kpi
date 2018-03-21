@@ -9,21 +9,23 @@
     A front-end playground {}
 
 - [ICEcoder.net](https://ICEcoder.net)
-    Online IDE
+    Online IDE {}
 
 - [Divshot.com](https://Divshot.com)
-    The Interface Builder for Web Apps
+    The Interface Builder for Web Apps {}
 
 - [Codio.com](https://Codio.com)
-    Web IDE for web development, teaching and learning
+    Web IDE for web development, teaching and learning {}
 
 - [Codeanywhere.com](https://Codeanywhere.com)
-    Multi-platform cloud editor
+    Multi-platform cloud editor {}
 
 - [SourceLair.com](https://SourceLair.com)
-    In-browser IDE for web technologies
+    In-browser IDE for web technologies {}
 
 ## specific services 
 - [Litmus.com](https://litmus.com/email-testing) 
     The code editor built to streamline email development workflow
+
+*..don't you see your favorite?  drop me a line !*
 
