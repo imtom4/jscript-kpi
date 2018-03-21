@@ -1,12 +1,12 @@
 ## general online services for coders 
 - [JSFiddle.net](https://JSFiddle.net)
-    The Web Playground
+    The Web Playground {html, css, javascript.(&angular,ember,jquery,etc.libraries)}
 
 - [JSBin.com](https://JSBin.com)
-    A JavaScript, HTML and CSS playground
+    A JavaScript, HTML and CSS playground {}
 
 - [CodePen.io](https://CodePen.io)
-    A front-end playground
+    A front-end playground {}
 
 - [ICEcoder.net](https://ICEcoder.net)
     Online IDE
