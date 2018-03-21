@@ -22,6 +22,9 @@
 
 - [SourceLair.com](https://SourceLair.com)
     In-browser IDE for web technologies {}
+    
+- [StackEdit.io](https://stackedit.io)
+    In-browser markdown editor {.md, many features} 
 
 ## specific services 
 - [Litmus.com](https://litmus.com/email-testing) 
