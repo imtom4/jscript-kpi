@@ -1,4 +1,4 @@
-##online services for coders 
+## general online services for coders 
 - [JSFiddle.net](https://JSFiddle.net)
     The Web Playground
 
@@ -17,13 +17,13 @@
 - [Codio.com](https://Codio.com)
     Web IDE for web development, teaching and learning
 
-    Codeanywhere.com[Litmus.com](https://litmus.com/email-testing)
+- [Codeanywhere.com](https://Codeanywhere.com)
     Multi-platform cloud editor
 
-    SourceLair.com[Litmus.com](https://litmus.com/email-testing)
+- [SourceLair.com](https://SourceLair.com)
     In-browser IDE for web technologies
 
-##specific 
-    [Litmus.com](https://litmus.com/email-testing) 
+## specific services 
+- [Litmus.com](https://litmus.com/email-testing) 
     The code editor built to streamline email development workflow
 
