@@ -26,6 +26,6 @@
 
 ##specific
 
-    [Litmus.com]( https://litmus.com/email-testing )
+    [Litmus.com](https://litmus.com/email-testing) 
     The code editor built to streamline email development workflow
 
