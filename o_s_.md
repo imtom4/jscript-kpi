@@ -3,7 +3,7 @@
     The Web Playground {html, css, javascript.(&angular,ember,jquery,etc.libraries)}
 
 - [JSBin.com](https://JSBin.com)
-    A JavaScript, HTML and CSS playground {}
+    A JavaScript, HTML and CSS playground {html, css, javascript.(es6,coffescript,jsx,typescript,etc.)}
 
 - [CodePen.io](https://CodePen.io)
     A front-end playground {}
