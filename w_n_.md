@@ -9,6 +9,6 @@
 begin to learn 
 - [Python | Codecademy](https://www.codecademy.com/en/tracks/python)
 
-- https://www.codeschool.com/courses/try-python 
+- [Python @ codeschool](https://www.codeschool.com/courses/try-python) 
 
 - 
