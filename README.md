@@ -1,4 +1,4 @@
-## javaScript, etc. Programming basics learning 
+## javaScript, jQuery, node.js, etc. Programming basics learning 
 
 with thanks and compliments to my supporting accomaning Friends!  
 
@@ -13,5 +13,4 @@ and excuses for all my personal Drawbacks ..
 - [what next {to learn} ? (..updating..)](w_n_.md)
 
 - [in short about useful Online services (..updating..)](o_s_.md)
-
 
