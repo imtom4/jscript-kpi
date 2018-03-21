@@ -8,7 +8,10 @@ and excuses for all my personal Drawbacks ..
 
 - [calendar of lectures topics](schedule-2018.md)
 
-- [additional tech-reading books (..updating..)](add-reading.md)
+- [additional tech-reading for js\es6 (..updating..)](add-reading.md)
 
-- [what next? (..updating..)](w_n_.md)
+- [what next {to learn} ? (..updating..)](w_n_.md)
+
+- [in short about useful Online services (..updating..)](o_s_.md)
+
 
