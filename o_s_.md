@@ -23,8 +23,8 @@
 - [SourceLair.com](https://SourceLair.com)
     In-browser IDE for web technologies {}
     
-- [StackEdit.io](https://stackedit.io)
-    In-browser markdown editor {.md, many features} 
+- [stackedit.io](https://stackedit.io)
+    In-browser markdown editor {.md, many features} | [:octocat:@benweet/stackedit](https://github.com/benweet/stackedit)
 
 ## specific services 
 - [Litmus.com](https://litmus.com/email-testing) 
