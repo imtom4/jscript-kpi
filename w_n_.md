@@ -12,3 +12,8 @@ begin to learn
 - [Try Python @ CodeSchool](https://www.codeschool.com/courses/try-python) 
 
 - ...edX 
+
+### and GO even further (|
+- [Go дайджест #2: Go 1.10.1 and 1.9.5, Blockchain Mining алгоритм, разработка Slack-ботов](https://dou.ua/lenta/digests/go-digest-2/) 
+  - [Использование Go&nbsp;в&nbsp;качестве скриптового языка в&nbsp;Linux](https://blog.cloudflare.com/using-go-as-a-scripting-language-in-linux/)
+  - [Multithreading in&nbsp;Go&nbsp;— Туториал](https://pragmacoders.com/multithreading-go-tutorial)
