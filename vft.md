@@ -1,4 +1,4 @@
 some stuff 
 as is ... and more 
 
-useful Git tutorial https://learngitbranching.js.org/ 
+- ["Learn Git Branching"](https://learngitbranching.js.org/) — це найбільш візуальний та інтерактивний спосіб вивчення Git в Інтернеті 
