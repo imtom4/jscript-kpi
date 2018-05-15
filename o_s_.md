@@ -1,4 +1,4 @@
-## general online services for coders 
+## online services for coders \ programmers 
 - [JSFiddle.net](https://JSFiddle.net)
     The Web Playground {html, css, javascript.(&angular,ember,jquery,etc.libraries)}
 
@@ -26,7 +26,6 @@
 - [stackedit.io](https://stackedit.io)
     In-browser markdown editor {.md, many features} | [:octocat:@benweet/stackedit](https://github.com/benweet/stackedit)
 
-## specific services 
 - [Litmus.com](https://litmus.com/email-testing) 
     The code editor built to streamline email development workflow
 
