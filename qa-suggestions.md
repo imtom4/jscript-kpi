@@ -6,3 +6,10 @@
 - https://habr.com/hub/web_testing/
 - https://habr.com/hub/it_testing/
 - https://habr.com/hub/mobile_testing/
+
+#search 
+- https://www.tutorialspoint.com/software_testing/software_testing_overview.htm
+- https://www.guru99.com/software-testing-introduction-importance.html
+- http://softwaretestingfundamentals.com/software-testing-basics/
+
+?methodology 
