@@ -4,8 +4,8 @@
 В кожному напрямі є свої практики і підходи. https://habr.com/company/jugru/blog/358442/
 
 Загалом цікаві статті на тему:
-- https://habr.com/hub/web_testing/
-- https://habr.com/hub/it_testing/
+- https://habr.com/hub/web_testing/ 
+- https://habr.com/hub/it_testing/ -> http://poliarush.com/ (youtube too) 
 - https://habr.com/hub/mobile_testing/
 
 #search QAbasics 
