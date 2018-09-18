@@ -5,7 +5,7 @@
 
 Загалом цікаві статті на тему:
 - https://habr.com/hub/web_testing/ 
-- https://habr.com/hub/it_testing/ -> https://habr.com/company/epam_systems/blog/421899/ -> http://poliarush.com/ (youtube) 
+- https://habr.com/hub/it_testing/ -> https://habr.com/company/epam_systems/blog/421899/ -> http://poliarush.com/materials  
 - https://habr.com/hub/mobile_testing/
 
 #search QAbasics 
